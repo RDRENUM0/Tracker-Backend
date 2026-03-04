@@ -14,14 +14,15 @@ Backendowa część aplikacji do autentykacji użytkowników, zbudowana w Django
 
 <p align="center">
   <img src="1.png" width="30%" alt="Screen 1">
-  <img src="2.png" width="30%" alt="Screen 2">
   <img src="3.png" width="30%" alt="Screen 3">
 </p>
 <p align="center">
   <img src="4.png" width="30%" alt="Screen 4">
   <img src="5.png" width="30%" alt="Screen 5">
 </p>
-
+<p align="center">
+  <img src="2.png" width="30%" alt="Screen 2">
+</p>
 ## 📦 Instalacja
 
 ### Wymagania wstępne
