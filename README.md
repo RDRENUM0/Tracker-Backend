@@ -14,6 +14,8 @@ Backendowa część aplikacji do autentykacji użytkowników, zbudowana w Django
 
 <p align="center">
   <img src="1.png" width="30%" alt="Screen 1">
+  </p>
+  <p align="center">
   <img src="3.png" width="30%" alt="Screen 3">
 </p>
 <p align="center">
