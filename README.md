@@ -1,6 +1,6 @@
-# Django Auth Backend
+# Django Auth Backend 🚀
 
-Backendowa część aplikacji do autentykacji użytkowników, zbudowana w Django REST Framework z obsługą JWT.
+Backendowa część aplikacji do autentykacji użytkowników, zbudowana w Django REST Framework z obsługą JWT. Projekt stanowi fundament dla aplikacji Tracker, umożliwiając bezpieczne zarządzanie użytkownikami i ich danymi.
 
 ## 🛠 Technologie
 
@@ -9,6 +9,18 @@ Backendowa część aplikacji do autentykacji użytkowników, zbudowana w Django
 - **Simple JWT 5.3.0** - tokeny JWT
 - **Django CORS Headers 4.3.1** - obsługa CORS
 - **Python Decouple 3.8** - zarządzanie zmiennymi środowiskowymi
+
+## 📸 Podgląd Panelu (Screeny)
+
+<p align="center">
+  <img src="1.png" width="30%" alt="Screen 1">
+  <img src="2.png" width="30%" alt="Screen 2">
+  <img src="3.png" width="30%" alt="Screen 3">
+</p>
+<p align="center">
+  <img src="4.png" width="30%" alt="Screen 4">
+  <img src="5.png" width="30%" alt="Screen 5">
+</p>
 
 ## 📦 Instalacja
 
@@ -20,7 +32,7 @@ Backendowa część aplikacji do autentykacji użytkowników, zbudowana w Django
 
 1. **Sklonuj repozytorium**
 ```bash
-git clone https://github.com/twoja_nazwa/Tracker_backend.git
+git clone [https://github.com/twoja_nazwa/Tracker_backend.git](https://github.com/twoja_nazwa/Tracker_backend.git)
 cd Tracker_backend
 
 # Windows
@@ -31,13 +43,4 @@ venv\Scripts\activate
 python3 -m venv venv
 source venv/bin/activate
 
-pip install -r requirements.txt
-
-# Stwórz plik .env w głównym katalogu
-echo "SECRET_KEY=twój-bardzo-tajny-klucz-django
-DEBUG=True" > .env
-
-python manage.py createsuperuser
-
 python manage.py runserver
-# Tracker-Backend
